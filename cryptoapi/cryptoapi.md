@@ -1,3 +1,4 @@
+#Free Crypto APIs for:
 | #   | API NAME     | DESCRIPTION                                                                 | AUTH REQUIREMENTS | SAMPLE URL                                                                                               |
 |-----|--------------|-----------------------------------------------------------------------------|-------------------|---------------------------------------------------------------------------------------------------------|
 | 1   | CoinBase     | Small but simple dataset focused on currencies, prices, and exchange rates | Open              | https://api.coinbase.com/v2/exchange-rates?currency=BTC                                                |
